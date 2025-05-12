@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🐳, I'm Trung Nhân</h1>
-<p align="center">I'm Web developer</p>
+<h1 align="center">Hi 🐳, I'm Trung Nhan</h1>
+<p align="center">I'm Web Fullstack Developer</p>
 
 <h3 align="left">About Me: </h3>
 <p> <a href="https://www.instagram.com/dtrgx_"> <img src="https://cdn-icons-png.flaticon.com/512/4922/4922972.png" width="40" height="40"></a> <a href="https://x.com/dtrgx_"> <img src="https://www.svgrepo.com/show/11841/twitter.svg" width="40" height="40"></a></p>
